@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T13:51:51.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="YrmitZ-7UxesZGvMjDOm" type="github"><diagram id="qhwNp5VWRAQLn1x3J2TQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-25T14:17:23.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="7h46ZoMrZuPMF7VmbzFH" type="github">
+  <diagram id="4_1l9gtMqdWbpCXrMIaI" name="Page-1">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PzmiEV-PYqC4uWfDqOdk-1" value="File Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PzmiEV-PYqC4uWfDqOdk-2" value="CRUD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="230" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PzmiEV-PYqC4uWfDqOdk-3" value="Roles &amp;amp; Permissions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="340" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PzmiEV-PYqC4uWfDqOdk-12" value="Загрузка файлов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PzmiEV-PYqC4uWfDqOdk-13" value="Поиск по каталогу" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PzmiEV-PYqC4uWfDqOdk-14" value="Авторские фиды контента (новинки кино и сериалов)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PzmiEV-PYqC4uWfDqOdk-17" value="ЛК Автора контента" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PzmiEV-PYqC4uWfDqOdk-18" value="Форма добавления видео" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
